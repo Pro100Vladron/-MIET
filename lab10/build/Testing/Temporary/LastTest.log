@@ -1,0 +1,123 @@
+Start testing: Dec 24 13:20 UTC
+----------------------------------------------------------
+1/6 Testing: strided_range::stride_bigger_width
+1/6 Test: strided_range::stride_bigger_width
+Command: "/workspaces/-MIET/lab10/build/tests_strided_range" "strided_range::stride_bigger_width"
+Directory: /workspaces/-MIET/lab10/build
+"strided_range::stride_bigger_width" start time: Dec 24 13:20 UTC
+Output:
+----------------------------------------------------------
+Filters: "strided_range::stride_bigger_width"
+Randomness seeded to: 3572134966
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"strided_range::stride_bigger_width" end time: Dec 24 13:20 UTC
+"strided_range::stride_bigger_width" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: strided_range::width_bigger_stride
+2/6 Test: strided_range::width_bigger_stride
+Command: "/workspaces/-MIET/lab10/build/tests_strided_range" "strided_range::width_bigger_stride"
+Directory: /workspaces/-MIET/lab10/build
+"strided_range::width_bigger_stride" start time: Dec 24 13:20 UTC
+Output:
+----------------------------------------------------------
+Filters: "strided_range::width_bigger_stride"
+Randomness seeded to: 1078418470
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"strided_range::width_bigger_stride" end time: Dec 24 13:20 UTC
+"strided_range::width_bigger_stride" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: strided_range::stride_equal_width
+3/6 Test: strided_range::stride_equal_width
+Command: "/workspaces/-MIET/lab10/build/tests_strided_range" "strided_range::stride_equal_width"
+Directory: /workspaces/-MIET/lab10/build
+"strided_range::stride_equal_width" start time: Dec 24 13:20 UTC
+Output:
+----------------------------------------------------------
+Filters: "strided_range::stride_equal_width"
+Randomness seeded to: 3776129436
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"strided_range::stride_equal_width" end time: Dec 24 13:20 UTC
+"strided_range::stride_equal_width" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: strided_range::distance
+4/6 Test: strided_range::distance
+Command: "/workspaces/-MIET/lab10/build/tests_strided_range" "strided_range::distance"
+Directory: /workspaces/-MIET/lab10/build
+"strided_range::distance" start time: Dec 24 13:20 UTC
+Output:
+----------------------------------------------------------
+Filters: "strided_range::distance"
+Randomness seeded to: 256547596
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"strided_range::distance" end time: Dec 24 13:20 UTC
+"strided_range::distance" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: strided_range::corner_case1::zero_width
+5/6 Test: strided_range::corner_case1::zero_width
+Command: "/workspaces/-MIET/lab10/build/tests_strided_range" "strided_range::corner_case1::zero_width"
+Directory: /workspaces/-MIET/lab10/build
+"strided_range::corner_case1::zero_width" start time: Dec 24 13:20 UTC
+Output:
+----------------------------------------------------------
+Filters: "strided_range::corner_case1::zero_width"
+Randomness seeded to: 366262621
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"strided_range::corner_case1::zero_width" end time: Dec 24 13:20 UTC
+"strided_range::corner_case1::zero_width" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: strided_range::corner_case2::zero_stride
+6/6 Test: strided_range::corner_case2::zero_stride
+Command: "/workspaces/-MIET/lab10/build/tests_strided_range" "strided_range::corner_case2::zero_stride"
+Directory: /workspaces/-MIET/lab10/build
+"strided_range::corner_case2::zero_stride" start time: Dec 24 13:20 UTC
+Output:
+----------------------------------------------------------
+Filters: "strided_range::corner_case2::zero_stride"
+Randomness seeded to: 1724456312
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"strided_range::corner_case2::zero_stride" end time: Dec 24 13:20 UTC
+"strided_range::corner_case2::zero_stride" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 24 13:20 UTC

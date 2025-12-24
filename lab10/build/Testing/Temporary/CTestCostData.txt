@@ -1,0 +1,7 @@
+strided_range::stride_bigger_width 1 0.00396417
+strided_range::width_bigger_stride 1 0.00393419
+strided_range::stride_equal_width 1 0.00398938
+strided_range::distance 1 0.00349419
+strided_range::corner_case1::zero_width 1 0.00397833
+strided_range::corner_case2::zero_stride 1 0.00739016
+---

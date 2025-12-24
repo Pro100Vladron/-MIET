@@ -1,0 +1,5 @@
+if(EXISTS "/workspaces/-MIET/lab10/build/tests_strided_range-b12d07c_tests.cmake")
+  include("/workspaces/-MIET/lab10/build/tests_strided_range-b12d07c_tests.cmake")
+else()
+  add_test(tests_strided_range_NOT_BUILT-b12d07c tests_strided_range_NOT_BUILT-b12d07c)
+endif()
